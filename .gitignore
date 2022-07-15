@@ -5,3 +5,4 @@ db.sqlite3
 
 .DS_store
 /venv
+.env
